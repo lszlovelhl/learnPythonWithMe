@@ -1,3 +1,4 @@
+# 日志装饰器示例
 # log_decorator
 def logger(func):
     def wrapper(*args, **kwargs):

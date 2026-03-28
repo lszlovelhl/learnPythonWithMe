@@ -1,3 +1,4 @@
+# 权限验证装饰器示例
 # permission_verification_decorator
 def permission_required(permission):
     def decorator(func):

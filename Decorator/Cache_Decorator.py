@@ -1,3 +1,4 @@
+# 缓存装饰器示例
 # cache_decorator
 def cache(func):
     cached_results = {}
